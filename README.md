@@ -1,8 +1,7 @@
 ## Random Map Generation
 
-My name is Xiao Shan Costajussa, student of  at UPC CITM. 
+My name is Xiao Shan Costajussa, student of 2nd de Diseno y Desenvolupamiento de Videojuegos  at UPC CITM. 
 
-This content is generated for the second year's subject Project II
 
 ### About the research: What are Random Generated Maps?
 
@@ -460,14 +459,9 @@ else if (value > 0.6 && value < 1)  app->render->DrawTexture(app->scene->waterTe
 |:---:|
 |Final result|
 
-If you more information to how implement this algorithm check this video (https://www.youtube.com/watch?v=jv6YT9pPIHw)
+If you more information to how implement this algorithm check this video [(https://www.youtube.com/watch?v=jv6YT9pPIHw)]
 
 ## Bibliography
-Library used: [Fast Portable Noise Library created by Jordan Peck](https://github.com/Auburn/FastNoiseLite)
 
-A video about [2D Terrain Generation using Perlin Noise](https://www.youtube.com/watch?v=jv6YT9pPIHw) published by [Barney](https://github.com/BarneyWhiteman/CodingChallenges)
-
-[Procedural generation applied to a video game level design](https://upcommons.upc.edu/bitstream/handle/2099.1/26632/109439.pdf?sequence=1&isAllowed=y)  written by Albert Carrión Díaz
-
-Addition information to understand [procedural dungeon](https://www.freecodecamp.org/news/how-to-make-your-own-procedural-dungeon-map-generator-using-the-random-walk-algorithm-e0085c8aa9a/)
+Cellular algorihtm [(https://www.youtube.com/watch?v=S9QTsf9AUqQ)]
 
