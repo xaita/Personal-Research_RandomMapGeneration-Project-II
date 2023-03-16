@@ -459,9 +459,21 @@ else if (value > 0.6 && value < 1)  app->render->DrawTexture(app->scene->waterTe
 |:---:|
 |Final result|
 
-If you more information to how implement this algorithm check this video [(https://www.youtube.com/watch?v=jv6YT9pPIHw)]
+If you more information to how implement this algorithm check this [video](https://www.youtube.com/watch?v=jv6YT9pPIHw)
 
 ## Bibliography
 
+Procedural generation [video](https://www.youtube.com/watch?v=x2pJcP8_5TI)
+
+Isaac rooms generation [video](https://www.youtube.com/watch?v=1-HIA6-LBJc)
+
+No Man's Sky procedural generation [video](https://www.youtube.com/watch?v=2Uvx-IpQ9h8)
+
+Dungeon Generation [link](http://www.roguebasin.com/index.php/Dungeon-Building_Algorithm)
+
 Cellular algorihtm [video](https://www.youtube.com/watch?v=S9QTsf9AUqQ)
+
+Random Maps with Cellular Automata [link](https://www.davideaversa.it/blog/random-maps-with-cellular-automata/)
+
+A video about [2D Terrain Generation using Perlin Noise](https://www.youtube.com/watch?v=jv6YT9pPIHw) published by [Barney](https://github.com/BarneyWhiteman/CodingChallenges)
 
