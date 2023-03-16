@@ -16,9 +16,13 @@ In other words, random generated maps are created by computers instead of person
 
 ### Examples in video game:
 
-|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/Terraria.jpg" alt="Height Formula" width="300" height="400">|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/Issac.jpg" alt="Height Formula" width="300" height="400">|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/no_mans_sky.PNG" alt="Height Formula" width="300" height="400">|
-|:---:|:---:|:---:|
-|Terraria (2011)|The Binding of Issac Repentance (2021)|No Man's Sky (2016)|
+
+|_ScreenShot_ | _Game_| _Info_ |
+| --------- | ------- | ---------- |
+|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/Terraria.jpg" alt="Height Formula" width="400" height="300">| Terraria (2011) | Terraria is a very complete game in the sense of random world generation, since it has random terrain generation following a pattern of biomes, generation of caves with different heights, and a generation of dungeons.   |
+|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/Issac.jpg" alt="Height Formula" width="400" height="300">  | The Binding of Isaac Repentance (2021)  | Isaac on the other hand only has a random generation of dungeons, which behaves a little differently than usual, since it does not generate the rooms randomly, but it already has them predefined and what changes is the combination between them. |
+|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/no_mans_sky.PNG" alt="Height Formula" width="400" height="300"> | No Man's Sky (2016) | No Man's Sky is a special case, since it is not only dedicated to procedurally create terrains or biomes, but it generates planets and entire systems and in exorbitant quantities with millions and millions of planets and stars, where the generation of these planets depends on the distance they have from the sun and the size of the planet, to know what resource will be on that planet and thus conclude its viability to produce life and what kind of life. | 
+***
 
 ### Why do we want random generated maps?
 Nowadays, a video game demands several materials to compose complex and large scene, carrying high costs in their content development. Developers use these algorithms to
@@ -43,11 +47,12 @@ Also, from the player perspective, it is more enjoyable to play a diferent map e
 
 ### When should we use a random generated map?
 - Open world or survival games
-- Space exploration and trading games.
+- Exploration games.
+- If your main mechanic is the repetition like in a roge-like/lite game.
 
-|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/minecraft_cover.png" alt="Height Formula" width="300" height="500">|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/no_mans_sky.PNG" alt="Height Formula" width="300" height="500">|
-|:---:|:---:|
-|Minecraft |No man's sky|
+|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/minecraft_cover.png" alt="Height Formula" width="300" height="500">|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/Spore.jpg" alt="Height Formula" width="300" height="500">|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/Rogue Legacy 2.jpg" alt="Height Formula" width="300" height="500">|
+|:---:|:---:|:---:|
+|Minecraft (2009) |Spore (2008)|Rogue Legacy 2 (2020)|
 
 
 ### How can we create this algorithm?
