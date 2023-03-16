@@ -3,7 +3,7 @@
 My name is Xiao Shan Costajussa, student of 2nd of Design and Development of Video Games at UPC CITM. 
 
 
-### About the research: What are Random Generated Maps?
+###  What are Random Generated Maps?
 
 The procedural generation is the process to generate content algorithmically rather than manual. 
 
