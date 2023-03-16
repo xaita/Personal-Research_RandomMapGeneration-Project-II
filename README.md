@@ -17,7 +17,7 @@ In other words, random generated maps are created by computers instead of person
 
 
 |_ScreenShot_ | _Game_| _Info_ |
-| --------- | ------- | ---------- |
+| - | - | - |
 |<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/Terraria.jpg" alt="Height Formula" width="400" height="300">| Terraria (2011) | Terraria is a very complete game in the sense of random world generation, since it has random terrain generation following a pattern of biomes, generation of caves with different heights, and a generation of dungeons.   |
 |<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/Issac.jpg" alt="Height Formula" width="400" height="300">  | The Binding of Isaac Repentance (2021)  | Isaac on the other hand only has a random generation of dungeons, which behaves a little differently than usual, since it does not generate the rooms randomly, but it already has them predefined and what changes is the combination between them. |
 |<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/no_mans_sky.PNG" alt="Height Formula" width="400" height="300"> | No Man's Sky (2016) | No Man's Sky is a special case, since it is not only dedicated to procedurally create terrains or biomes, but it generates planets and entire systems and in exorbitant quantities with millions and millions of planets and stars, where the generation of these planets depends on the distance they have from the sun and the size of the planet, to know what resource will be on that planet and thus conclude its viability to produce life and what kind of life. | 
