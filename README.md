@@ -463,5 +463,5 @@ If you more information to how implement this algorithm check this video [(https
 
 ## Bibliography
 
-Cellular algorihtm [(https://www.youtube.com/watch?v=S9QTsf9AUqQ)]
+Cellular algorihtm [video](https://www.youtube.com/watch?v=S9QTsf9AUqQ)
 
