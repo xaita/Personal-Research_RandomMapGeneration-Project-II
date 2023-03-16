@@ -11,7 +11,7 @@ In other words, random generated maps are created by computers instead of person
 
 |<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/random_map_1.gif" alt="Height Formula" width="600" height="300">|<img src="https://raw.githubusercontent.com/xaita/RandomMapGeneration-Project-II/main/docs/Assets/random_map_2.gif" alt="Height Formula" width="600" height="300">|
 |:---:|:---:|
-|Random generated terrain from Seeds of Residence (2018)|Random generated dungeon from a videgame made in Phaser 3 Engine|
+|Random generated terrain from Seeds of Residence (2018)|Random generated dungeon from a videogame made in Phaser 3 Engine|
 
 ### Examples in video game:
 
