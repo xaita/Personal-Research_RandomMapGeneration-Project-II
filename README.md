@@ -487,7 +487,7 @@ No Man's Sky procedural generation [video](https://www.youtube.com/watch?v=2Uvx-
 Dungeon Generation [link](http://www.roguebasin.com/index.php/Dungeon-Building_Algorithm)
 
 Cellular algorihtm [video](https://www.youtube.com/watch?v=S9QTsf9AUqQ)
-
+Cellular algorihtm [video 2](https://www.youtube.com/watch?v=slTEz6555Ts)
 Random Maps with Cellular Automata [link](https://www.davideaversa.it/blog/random-maps-with-cellular-automata/)
 
 A video about [2D Terrain Generation using Perlin Noise](https://www.youtube.com/watch?v=jv6YT9pPIHw) published by [Barney](https://github.com/BarneyWhiteman/CodingChallenges)
