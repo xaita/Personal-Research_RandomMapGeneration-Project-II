@@ -81,7 +81,7 @@ bool Scene::Update(float dt)
 	if (app->input->GetKey(SDL_SCANCODE_R) == KEY_DOWN) {
 		Dungeon d(80, 45);
 
-		d.generate(20);
+		d.generate(10);
 
 		dungeon = d;
 

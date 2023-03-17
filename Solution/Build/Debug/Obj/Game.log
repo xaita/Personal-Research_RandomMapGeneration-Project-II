@@ -1,3 +1,16 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  Main.cpp
+  App.cpp
+  Audio.cpp
+  Input.cpp
+  Map.cpp
+C:\Users\PcCom\Documents\GitHub\Personal-Research_RandomMapGeneration-Project-II\Solution\Game\Source\Map.cpp(251,21): warning C4018: '<': no coinciden signed/unsigned
   RandomDungeonGenerator.cpp
-  Game.vcxproj -> C:\Users\PcCom\Desktop\PersonalResearch-Random-Map-Generator-main\Solution\Build\Debug\Game.exe
+  Scene.cpp
+  Render.cpp
+  Textures.cpp
+  Window.cpp
+  Log.cpp
+  pugixml.cpp
+  Generando código...
+  Game.vcxproj -> C:\Users\PcCom\Documents\GitHub\Personal-Research_RandomMapGeneration-Project-II\Solution\Build\Debug\Game.exe
