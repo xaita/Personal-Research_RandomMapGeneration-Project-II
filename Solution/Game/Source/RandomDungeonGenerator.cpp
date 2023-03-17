@@ -131,7 +131,7 @@ void Dungeon :: generate(int maxFeatures)
 			if (_exits.empty())
 				break;
 
-			// choose a random side of a random room or corridor
+			// choose a random side of a random room 
 			int r = randomInt(_exits.size());
 			int x = randomInt(_exits[r].x, _exits[r].x + _exits[r].width - 1);
 			int y = randomInt(_exits[r].y, _exits[r].y + _exits[r].height - 1);
@@ -152,7 +152,7 @@ void Dungeon :: generate(int maxFeatures)
 
 	bool Dungeon:: createFeature(int x, int y, Direction dir)
 	{
-		static const int roomChance = 50; // corridorChance = 100 - roomChance
+		static const int roomChance = 50; 
 
 		int dx = 0;
 		int dy = 0;
