@@ -77,13 +77,7 @@ void Dungeon :: generate(int maxFeatures)
 
 	
 
-	/*	for (char& tile : _tiles)
-		{
-			if (tile == Unused)
-				tile = '.';
-			else if (tile == Floor || tile == Corridor)
-				tile = ' ';
-		}*/
+
 	}
 
 	void Dungeon:: render()
@@ -184,18 +178,7 @@ void Dungeon :: generate(int maxFeatures)
 			}
 		}
 
-		//else
-		//{
-		//	if (makeCorridor(x, y, dir))
-		//	{
-		//		if (getTile(x + dx, y + dy) == Floor)
-		//			setTile(x, y, ClosedDoor);
-		//		else // don't place a door between corridors
-		//			setTile(x, y, Corridor);
-
-		//		return true;
-		//	}
-		//}
+	
 
 		return false;
 	}

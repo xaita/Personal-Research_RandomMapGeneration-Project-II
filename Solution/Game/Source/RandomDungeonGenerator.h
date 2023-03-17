@@ -77,8 +77,6 @@ public:
 
 	bool makeRoom(int x, int y, Direction dir, bool firstRoom = false);
 
-
-	/*bool makeCorridor(int x, int y, Direction dir);*/
 	
 
 	bool placeRect(const Rect& rect, char tile);
